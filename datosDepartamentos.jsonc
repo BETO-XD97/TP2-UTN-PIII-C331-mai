@@ -1,0 +1,44 @@
+//ESTO ES UNA LISTA DE EJEMPLOS QUE SE PUEDEN USAR
+//PARA CREAR NUEVOS DEPARTAMENTOS (elegir 1 por 1)
+
+[
+    {
+      "Area": "marketing",
+      "Es_Remoto": false, // si el trabajo fue remoto es true sino false
+      "Director": "Lucas Bustamante",
+      "Presupuesto": 4500000,
+      "Cant_Empleados": 4
+    } 
+    ,
+    {
+      "Area": "desarrollo",
+      "Es_Remoto": true, // si el trabajo fue remoto es true sino false
+      "Director": "Ana García",
+      "Presupuesto": 6500000,
+      "Cant_Empleados": 10
+    } 
+    ,
+    {
+      "Area": "ventas",
+      "Es_Remoto": false, // si el trabajo fue remoto es true sino false
+      "Director": "José Martínez",
+      "Presupuesto": 3000000,
+      "Cant_Empleados": 6
+    }
+    ,
+    {
+      "Area": "recursos humanos",
+      "Es_Remoto": true, // si el trabajo fue remoto es true sino false
+      "Director": "María López",
+      "Presupuesto": 2000000,
+      "Cant_Empleados": 3
+    }
+    ,
+    {
+      "Area": "finanzas",
+      "Es_Remoto": false, // si el trabajo fue remoto es true sino false
+      "Director": "Pedro Ramírez",
+      "Presupuesto": 5000000,
+      "Cant_Empleados": 8
+    }
+]

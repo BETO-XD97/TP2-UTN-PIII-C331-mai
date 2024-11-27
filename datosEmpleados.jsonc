@@ -1,0 +1,147 @@
+//ESTO ES UNA LISTA DE EJEMPLOS QUE SE PUEDEN USAR
+//PARA CREAR NUEVOS EMPLEADOS (elegir 1 por 1)
+
+[
+    {
+      "Nombre": "María",
+      "Apellido": "Pérez",
+      "Salario": 110000,
+      "Dias_Vacaciones": 10,
+      "Estado": true,
+      "Categoria": "senior",
+      "idDepartamento": 2
+    }
+    ,
+    {
+      "Nombre": "Carlos",
+      "Apellido": "Gómez",
+      "Salario": 95000,
+      "Dias_Vacaciones": 7,
+      "Estado": false,
+      "Categoria": "junior"
+    }
+    ,
+    {
+      "Nombre": "Sofía",
+      "Apellido": "López",
+      "Salario": 120000,
+      "Dias_Vacaciones": 12,
+      "Estado": true,
+      "Categoria": "semi-senior",
+      "idDepartamento": 3
+    }
+    ,
+    {
+      "Nombre": "Andrés",
+      "Apellido": "Hernández",
+      "Salario": 87000,
+      "Dias_Vacaciones": 5,
+      "Estado": false,
+      "Categoria": "junior"
+    }
+    ,
+    {
+      "Nombre": "Lucía",
+      "Apellido": "García",
+      "Salario": 135000,
+      "Dias_Vacaciones": 15,
+      "Estado": true,
+      "Categoria": "senior",
+      "idDepartamento": 1
+    }
+    ,
+    {
+      "Nombre": "Jorge",
+      "Apellido": "Fernández",
+      "Salario": 99000,
+      "Dias_Vacaciones": 8,
+      "Estado": true,
+      "Categoria": "semi-senior",
+      "idDepartamento": 4
+    }
+    ,
+    {
+      "Nombre": "Elena",
+      "Apellido": "Martínez",
+      "Salario": 88000,
+      "Dias_Vacaciones": 6,
+      "Estado": false,
+      "Categoria": "junior"
+    }
+    ,
+    {
+      "Nombre": "Pedro",
+      "Apellido": "Ramírez",
+      "Salario": 128000,
+      "Dias_Vacaciones": 10,
+      "Estado": true,
+      "Categoria": "senior",
+      "idDepartamento": 2
+    }
+    ,
+    {
+      "Nombre": "Ana",
+      "Apellido": "Cruz",
+      "Salario": 105000,
+      "Dias_Vacaciones": 7,
+      "Estado": false,
+      "Categoria": "semi-senior"
+    }
+    ,
+    {
+      "Nombre": "Luis",
+      "Apellido": "Ortiz",
+      "Salario": 115000,
+      "Dias_Vacaciones": 9,
+      "Estado": true,
+      "Categoria": "senior",
+      "idDepartamento": 2
+    }
+    ,
+    {
+      "Nombre": "Gabriela",
+      "Apellido": "Díaz",
+      "Salario": 95000,
+      "Dias_Vacaciones": 8,
+      "Estado": true,
+      "Categoria": "junior"
+    }
+    ,
+    {
+      "Nombre": "Francisco",
+      "Apellido": "Morales",
+      "Salario": 102000,
+      "Dias_Vacaciones": 6,
+      "Estado": true,
+      "Categoria": "semi-senior",
+      "idDepartamento": 3
+    }
+    ,
+    {
+      "Nombre": "Mónica",
+      "Apellido": "Vargas",
+      "Salario": 89000,
+      "Dias_Vacaciones": 4,
+      "Estado": false,
+      "Categoria": "junior"
+    }
+    ,
+    {
+      "Nombre": "Héctor",
+      "Apellido": "Reyes",
+      "Salario": 125000,
+      "Dias_Vacaciones": 10,
+      "Estado": true,
+      "Categoria": "senior",
+      "idDepartamento": 1
+    }
+    ,
+    {
+      "Nombre": "Isabel",
+      "Apellido": "Mendoza",
+      "Salario": 97000,
+      "Dias_Vacaciones": 7,
+      "Estado": true,
+      "Categoria": "semi-senior"
+    }
+  ]
