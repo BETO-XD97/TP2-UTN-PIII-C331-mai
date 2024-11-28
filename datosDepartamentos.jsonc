@@ -41,4 +41,119 @@
       "Presupuesto": 5000000,
       "Cant_Empleados": 8
     }
+    ,
+{
+    "Area": "marketing",
+    "Es_Remoto": false,
+    "Director": "Lucas Bustamante",
+    "Presupuesto": 4500000,
+    "Cant_Empleados": 4
+  },
+  {
+    "Area": "desarrollo",
+    "Es_Remoto": true,
+    "Director": "Ana García",
+    "Presupuesto": 6500000,
+    "Cant_Empleados": 10
+  },
+  {
+    "Area": "ventas",
+    "Es_Remoto": false,
+    "Director": "José Martínez",
+    "Presupuesto": 3000000,
+    "Cant_Empleados": 6
+  },
+  {
+    "Area": "recursos humanos",
+    "Es_Remoto": true,
+    "Director": "María López",
+    "Presupuesto": 2000000,
+    "Cant_Empleados": 3
+  },
+  {
+    "Area": "finanzas",
+    "Es_Remoto": false,
+    "Director": "Pedro Ramírez",
+    "Presupuesto": 5000000,
+    "Cant_Empleados": 8
+  },
+  {
+    "Area": "logística",
+    "Es_Remoto": true,
+    "Director": "Laura Fernández",
+    "Presupuesto": 3500000,
+    "Cant_Empleados": 5
+  },
+  {
+    "Area": "investigación",
+    "Es_Remoto": true,
+    "Director": "Carlos Núñez",
+    "Presupuesto": 7000000,
+    "Cant_Empleados": 12
+  },
+  {
+    "Area": "atención al cliente",
+    "Es_Remoto": false,
+    "Director": "Luisa Pérez",
+    "Presupuesto": 2500000,
+    "Cant_Empleados": 7
+  },
+  {
+    "Area": "publicidad",
+    "Es_Remoto": true,
+    "Director": "Diego Morales",
+    "Presupuesto": 4000000,
+    "Cant_Empleados": 4
+  },
+  {
+    "Area": "soporte técnico",
+    "Es_Remoto": false,
+    "Director": "Sofía Herrera",
+    "Presupuesto": 3800000,
+    "Cant_Empleados": 9
+  },
+  {
+    "Area": "producción",
+    "Es_Remoto": false,
+    "Director": "Juan Gómez",
+    "Presupuesto": 5500000,
+    "Cant_Empleados": 15
+  },
+  {
+    "Area": "legal",
+    "Es_Remoto": true,
+    "Director": "Patricia Díaz",
+    "Presupuesto": 2200000,
+    "Cant_Empleados": 3
+  },
+  {
+    "Area": "calidad",
+    "Es_Remoto": false,
+    "Director": "Ricardo Castillo",
+    "Presupuesto": 2700000,
+    "Cant_Empleados": 6
+  }
+,
+  {
+    "Area": "tecnología",
+    "Es_Remoto": true,
+    "Director": "Gabriela Torres",
+    "Presupuesto": 9000000,
+    "Cant_Empleados": 20
+  },
+  {
+    "Area": "administración",
+    "Es_Remoto": false,
+    "Director": "Roberto Méndez",
+    "Presupuesto": 3100000,
+    "Cant_Empleados": 5
+  },
+  {
+    "Area": "comunicación",
+    "Es_Remoto": true,
+    "Director": "Carmen Vega",
+    "Presupuesto": 3300000,
+    "Cant_Empleados": 4
+  }
+
 ]
