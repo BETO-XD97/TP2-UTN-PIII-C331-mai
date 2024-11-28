@@ -75,7 +75,7 @@ Ejecutar los siguientes script:
  - En caso de tener problemas con nodemon instalarlo de forma global con:
 
    ```bash
-  npm install -g nodemon
+    npm install -g nodemon
   ```
 
 3) Si en consola bash llega aparecer el siguiento texto signigica que la conexion ha sido 'exitosa' de lo contrario revisar los puertos en el archivo .env en del proyecto
