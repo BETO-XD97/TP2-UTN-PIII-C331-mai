@@ -3,6 +3,8 @@
 
 La siguiente API se encargara de la administracion de una empresa, realizando un ABM(alta,baja, modificacion) sobre una base de datos que cuenta con dos tablas, una sobre de departamentos y la otra sobre empleados
 
+**Importante** para poder trabajar correctamente con el proyecto clonar el mismo **NO** descargar el .zip
+
 ### **CREACION DE LA BASE DE DATOS**
 
 La script para poder armar la base de datos en MYSQL junto con las tablas de Departamentos y Empleados se encuentra integrada en el archivo con el nombre de --> 'empresautn_Parcial'
@@ -70,6 +72,11 @@ Ejecutar los siguientes script:
 ```bash
   nodemon app.js
 ```
+ - En caso de tener problemas con nodemon instalarlo de forma global con:
+
+   ```bash
+  npm install -g nodemon
+  ```
 
 3) Si en consola bash llega aparecer el siguiento texto signigica que la conexion ha sido 'exitosa' de lo contrario revisar los puertos en el archivo .env en del proyecto
 
